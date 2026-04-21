@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-04-21T00:39:40.842Z",
+  "profile_id": "edificio-campanella",
+  "label": "Edificio Campanella",
+  "title": "Edificio Campanella | Presenca digital",
+  "headline": "Perfil institucional",
+  "primary_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+  "public_repository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+  "site_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+  "source_urls": [
+    "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+  ],
+  "reference_links": [
+    {
+      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
+      "label": "Referencia publica",
+      "note": "busca publica do Edificio Campanella"
+    },
+    {
+      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "label": "Repositorio publico",
+      "note": "destino publico da superficie editorial"
+    }
+  ]
+}

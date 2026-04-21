@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-04-21T00:39:41.167Z",
+  "filters_applied": {},
+  "total_signals": 2,
+  "total_available_signals": 2,
+  "linked_signals": 2,
+  "signals": [
+    {
+      "title": "Referencia publica aberta",
+      "description": "Ponto inicial de descoberta com referencias abertas para o Edificio Campanella.",
+      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
+      "value": "Busca publica"
+    },
+    {
+      "title": "Repositorio publico do perfil",
+      "description": "Base auditavel para evolucao, versionamento e manutencao da superficie editorial.",
+      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "value": "GitHub"
+    }
+  ]
+}
