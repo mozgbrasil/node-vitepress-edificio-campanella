@@ -1,22 +1,28 @@
-const VERSION = 'mozg-site-v9';
+const VERSION = "mozg-site-edificio-campanella-v10";
+const HOME_PATH = "/node-vitepress-edificio-campanella/";
 const APP_SHELL = [
-  '/',
-  '/openapi/',
-  '/docs/',
-  '/swagger-ui.html',
-  '/manifest.json',
-  '/logo-mini.svg',
-  '/logo-mini.png',
-  '/og.jpg',
-  '/data/site-catalog.json',
-  '/data/site-audit.json',
-  '/data/site-discovery.json',
-  '/data/site-portfolio.json',
-  '/data/site-projects.json',
-  '/data/site-capabilities.json',
-  '/data/site-stacks.json',
-  '/llms.txt',
-  '/robots.txt',
+  "/node-vitepress-edificio-campanella/",
+  "/node-vitepress-edificio-campanella/manifest.json",
+  "/node-vitepress-edificio-campanella/logo-mini.svg",
+  "/node-vitepress-edificio-campanella/logo-mini.png",
+  "/node-vitepress-edificio-campanella/og.jpg",
+  "/node-vitepress-edificio-campanella/data/site-catalog.json",
+  "/node-vitepress-edificio-campanella/data/site-audit.json",
+  "/node-vitepress-edificio-campanella/data/site-discovery.json",
+  "/node-vitepress-edificio-campanella/data/site-portfolio.json",
+  "/node-vitepress-edificio-campanella/data/site-projects.json",
+  "/node-vitepress-edificio-campanella/data/site-capabilities.json",
+  "/node-vitepress-edificio-campanella/data/site-stacks.json",
+  "/node-vitepress-edificio-campanella/data/site-operations.json",
+  "/node-vitepress-edificio-campanella/data/site-journeys.json",
+  "/node-vitepress-edificio-campanella/data/site-trust.json",
+  "/node-vitepress-edificio-campanella/llms.txt",
+  "/node-vitepress-edificio-campanella/robots.txt",
+  "/node-vitepress-edificio-campanella/contato",
+  "/node-vitepress-edificio-campanella/presenca",
+  "/node-vitepress-edificio-campanella/en/",
+  "/node-vitepress-edificio-campanella/en/contact",
+  "/node-vitepress-edificio-campanella/en/presence"
 ];
 
 self.addEventListener('install', (event) => {
@@ -59,7 +65,7 @@ self.addEventListener('fetch', (event) => {
             const responseClone = response.clone();
             event.waitUntil(
               caches.open(VERSION).then((cache) => {
-                cache.put('/', responseClone);
+                cache.put(HOME_PATH, responseClone);
               }),
             );
           }
@@ -67,7 +73,7 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(async () => {
           const cache = await caches.open(VERSION);
-          return cache.match('/') || Response.error();
+          return cache.match(HOME_PATH) || Response.error();
         }),
     );
     return;

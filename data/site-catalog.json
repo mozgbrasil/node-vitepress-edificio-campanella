@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:22.434Z",
+  "generated_at": "2026-04-21T03:11:59.507Z",
   "active_profile": "edificio-campanella",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -57,9 +57,6 @@
           "referencia publica"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
           "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
           "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
         ]
@@ -366,7 +363,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:22.434Z",
+    "generated_at": "2026-04-21T03:11:59.507Z",
     "company": "Edificio Campanella",
     "site_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
     "counts": {

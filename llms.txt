@@ -5,7 +5,7 @@
 - Role: Perfil institucional
 - Location: Sao Paulo, Brasil
 - Site: https://github.com/mozgbrasil/node-vitepress-edificio-campanella
-- Generated at: 2026-04-21T02:08:22.434Z
+- Generated at: 2026-04-21T03:11:59.507Z
 
 ## Summary
 Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.
