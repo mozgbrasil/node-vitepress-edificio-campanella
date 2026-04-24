@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-21T03:11:59.507Z",
+  "generated_at": "2026-04-24T20:00:23.507Z",
   "active_profile": "edificio-campanella",
   "catalog": {
     "site": {
       "title": "Edificio Campanella | Presenca digital",
-      "description": "Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.",
+      "description": "Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.",
       "author": "Edificio Campanella",
       "company": "Edificio Campanella",
-      "role": "Perfil institucional",
-      "location": "Sao Paulo, Brasil",
-      "siteUrl": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "socialImage": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella/raw/main/docs/public/og.jpg",
+      "role": "Condominio edilicio",
+      "location": "Itaquera, Sao Paulo, Brasil",
+      "siteUrl": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/og.jpg",
       "email": "",
       "phone": "",
       "whatsapp": "",
@@ -20,23 +20,27 @@
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
-      "curriculum": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "curriculum": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
       "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
-      "mapsUrl": "",
-      "mapsEmbedUrl": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP&output=embed",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "",
-        "postalCode": "",
-        "country": ""
+        "street": "Avenida Campanella, 1297",
+        "city": "Sao Paulo",
+        "state": "SP",
+        "postalCode": "08220-831",
+        "country": "Brasil"
       },
       "startedYear": 1999,
       "foundedYear": 2016,
       "keywords": [
         "Edificio Campanella",
+        "Condominio edilicio",
+        "Itaquera",
+        "Avenida Campanella, 1297",
+        "05.156.509/0001-41",
         "perfil institucional",
         "presenca digital",
         "repositorio publico",
@@ -44,13 +48,24 @@
       ],
       "structuredData": {
         "@context": "https://schema.org",
-        "@type": "Person",
+        "@type": "Organization",
         "name": "Edificio Campanella",
-        "url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-        "jobTitle": "Perfil institucional",
-        "worksFor": { "@type": "Organization", "name": "Edificio Campanella" },
+        "url": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+        "description": "Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Avenida Campanella, 1297",
+          "addressLocality": "Sao Paulo",
+          "addressRegion": "SP",
+          "postalCode": "08220-831",
+          "addressCountry": "Brasil"
+        },
         "knowsAbout": [
           "Edificio Campanella",
+          "Condominio edilicio",
+          "Itaquera",
+          "Avenida Campanella, 1297",
+          "05.156.509/0001-41",
           "perfil institucional",
           "presenca digital",
           "repositorio publico",
@@ -58,17 +73,20 @@
         ],
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+          "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+          "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+          "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+          "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
         ]
       },
       "pixOptions": [],
       "businessEntities": [
         {
           "name": "Edificio Campanella",
-          "cnpj": "",
-          "website": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-          "role": "referencia publica principal",
-          "note": "Base institucional inicial a partir de referencias publicas abertas."
+          "cnpj": "05.156.509/0001-41",
+          "website": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+          "role": "condominio edilicio",
+          "note": "Condominio com referencia cadastral ativa, endereco publico em Itaquera e fundacao em 2002."
         },
         {
           "name": "node-vitepress-edificio-campanella",
@@ -81,14 +99,14 @@
     },
     "hero": {
       "name": "Edificio Campanella",
-      "text": "Presenca digital institucional pronta para crescer com clareza",
-      "tagline": "Base editorial organizada para descoberta publica, referencias abertas e evolucao harmonizada do perfil institucional."
+      "text": "Condominio edilicio com localizacao, CNPJ e referencias publicas organizadas",
+      "tagline": "Google Maps, dados cadastrais, perfil ao vivo e repositorio publico organizam uma base institucional mais util e auditavel."
     },
     "pages": [
       {
         "path": "/",
         "title": "Edificio Campanella | Presenca digital",
-        "description": "Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao."
+        "description": "Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao."
       },
       {
         "path": "/contato",
@@ -103,6 +121,11 @@
     ],
     "specialties": [],
     "journeyMilestones": [
+      {
+        "year": "2002",
+        "title": "Fundacao do condominio",
+        "description": "As referencias publicas abertas apontam inicio de atividade em 2002 e operacao como condominio edilicio."
+      },
       {
         "year": "Atual",
         "title": "Base institucional organizada",
@@ -120,9 +143,9 @@
       }
     ],
     "experienceHighlights": [
-      "Base institucional organizada para descoberta publica e manutencao simples.",
-      "Referencias abertas e repositorio publico conectados como superfícies principais.",
-      "Estrutura pronta para evolucao com novas paginas, sinais e exports."
+      "Base institucional organizada para descoberta publica, localizacao e leitura cadastral simples.",
+      "Google Maps, consulta publica CNPJ e repositorio publico conectados como superfícies principais.",
+      "Estrutura pronta para evolucao com novos blocos, sinais de confianca e exports."
     ],
     "flagshipProjects": [],
     "portfolioEntries": [],
@@ -134,9 +157,19 @@
     "operationalSignals": [],
     "publishedSurfaces": [
       {
-        "title": "Referencia publica",
-        "description": "Busca publica aberta com referencias iniciais para o Edificio Campanella.",
-        "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+        "title": "Google Maps",
+        "description": "Localizacao publica principal para descoberta do condominio em Itaquera.",
+        "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP"
+      },
+      {
+        "title": "Consulta publica CNPJ",
+        "description": "Ficha cadastral publica com CNPJ, endereco, natureza juridica e atividade principal.",
+        "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella"
+      },
+      {
+        "title": "Perfil ao vivo",
+        "description": "Superficie publica dedicada para consolidar referencias, localizacao e contexto institucional.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/"
       },
       {
         "title": "Repositorio publico",
@@ -147,10 +180,22 @@
     "publicJourneys": [],
     "trustSignals": [
       {
-        "title": "Referencia publica aberta",
-        "description": "Ponto inicial de descoberta com referencias abertas para o Edificio Campanella.",
-        "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-        "value": "Busca publica"
+        "title": "CNPJ ativo do condominio",
+        "description": "A ficha cadastral publica aponta CNPJ 05.156.509/0001-41, situacao ativa e operacao como condominio edilicio.",
+        "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+        "value": "05.156.509/0001-41"
+      },
+      {
+        "title": "Endereco publico confirmado",
+        "description": "As referencias abertas convergem para Avenida Campanella, 1297, Itaquera, Sao Paulo - SP.",
+        "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+        "value": "Itaquera"
+      },
+      {
+        "title": "Perfil publico dedicado",
+        "description": "Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+        "value": "GitHub Pages"
       },
       {
         "title": "Repositorio publico do perfil",
@@ -270,9 +315,19 @@
     ],
     "contactLinks": [
       {
-        "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-        "label": "Referencia publica",
-        "note": "busca publica aberta"
+        "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+        "label": "Google Maps",
+        "note": "localizacao publica do condominio"
+      },
+      {
+        "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+        "label": "Consulta publica CNPJ",
+        "note": "ficha cadastral publica"
+      },
+      {
+        "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+        "label": "Perfil ao vivo",
+        "note": "superficie publica dedicada"
       },
       {
         "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
@@ -286,15 +341,25 @@
         "label": "Perfil institucional",
         "title": "edificio-campanella",
         "handle": "@edificio-campanella",
-        "summary": "Presenca institucional organizada com referencias publicas abertas e repositorio publico dedicado.",
+        "summary": "Presenca institucional organizada com Google Maps, ficha cadastral publica, perfil ao vivo e repositorio dedicado.",
         "image": "/logo-mini.svg",
         "imageAlt": "Identidade publica do Edificio Campanella",
         "imageNote": "Superficie institucional do Edificio Campanella",
         "primaryLinks": [
           {
-            "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-            "label": "Referencia publica",
-            "note": "busca publica aberta"
+            "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+            "label": "Google Maps",
+            "note": "localizacao publica"
+          },
+          {
+            "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+            "label": "Consulta publica CNPJ",
+            "note": "ficha cadastral publica"
+          },
+          {
+            "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+            "label": "Perfil ao vivo",
+            "note": "superficie publica dedicada"
           },
           {
             "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
@@ -304,17 +369,34 @@
         ],
         "groups": [
           {
-            "title": "Base publica",
+            "title": "Localizacao e descoberta",
             "links": [
               {
-                "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-                "label": "Referencia publica"
+                "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+                "label": "Google Maps"
+              },
+              {
+                "href": "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk",
+                "label": "Loft"
+              }
+            ]
+          },
+          {
+            "title": "Dados cadastrais",
+            "links": [
+              {
+                "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+                "label": "Consulta publica CNPJ"
               }
             ]
           },
           {
             "title": "Distribuicao editorial",
             "links": [
+              {
+                "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+                "label": "Perfil ao vivo"
+              },
               {
                 "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
                 "label": "Repositorio publico"
@@ -331,15 +413,27 @@
       "title": "Edificio Campanella | Presenca digital",
       "headline": "Perfil institucional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "primaryUrl": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
       "sourceUrls": [
-        "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+        "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+        "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+        "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
       ],
       "referenceLinks": [
         {
-          "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-          "label": "Referencia publica",
-          "note": "busca publica do Edificio Campanella"
+          "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+          "label": "Google Maps",
+          "note": "localizacao publica principal do condominio"
+        },
+        {
+          "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+          "label": "Consulta publica CNPJ",
+          "note": "ficha cadastral publica do condominio"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
         },
         {
           "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
@@ -347,29 +441,35 @@
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Organization",
       "heroMetrics": [
         {
-          "value": "Presenca publica",
-          "label": "organizada para descoberta rapida"
+          "value": "Desde 2002",
+          "label": "com base publica e endereco verificados"
         },
-        { "value": "Base institucional", "label": "pronta para novos blocos" },
-        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+        { "value": "CNPJ ativo", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
       ],
       "heroMetricsEn": [
-        { "value": "Public presence", "label": "organized for fast discovery" },
-        { "value": "Institutional base", "label": "ready for new sections" },
-        { "value": "Public repository", "label": "as an auditable surface" }
-      ]
+        {
+          "value": "Since 2002",
+          "label": "with verified public references and address"
+        },
+        { "value": "Active tax id", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
+      ],
+      "navLinks": [],
+      "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T03:11:59.507Z",
+    "generated_at": "2026-04-24T20:00:23.507Z",
     "company": "Edificio Campanella",
-    "site_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+    "site_url": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 34,
+      "discovery_items": 45,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -378,14 +478,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 2,
+      "trust_signals": 4,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 2,
+      "surfaces": 4,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 4,
-      "contact_links": 2
+      "presence_groups": 3,
+      "presence_links": 9,
+      "contact_links": 4
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

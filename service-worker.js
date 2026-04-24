@@ -1,28 +1,28 @@
-const VERSION = "mozg-site-edificio-campanella-v10";
-const HOME_PATH = "/node-vitepress-edificio-campanella/";
+const VERSION = 'mozg-site-edificio-campanella-v10';
+const HOME_PATH = '/node-vitepress-edificio-campanella/';
 const APP_SHELL = [
-  "/node-vitepress-edificio-campanella/",
-  "/node-vitepress-edificio-campanella/manifest.json",
-  "/node-vitepress-edificio-campanella/logo-mini.svg",
-  "/node-vitepress-edificio-campanella/logo-mini.png",
-  "/node-vitepress-edificio-campanella/og.jpg",
-  "/node-vitepress-edificio-campanella/data/site-catalog.json",
-  "/node-vitepress-edificio-campanella/data/site-audit.json",
-  "/node-vitepress-edificio-campanella/data/site-discovery.json",
-  "/node-vitepress-edificio-campanella/data/site-portfolio.json",
-  "/node-vitepress-edificio-campanella/data/site-projects.json",
-  "/node-vitepress-edificio-campanella/data/site-capabilities.json",
-  "/node-vitepress-edificio-campanella/data/site-stacks.json",
-  "/node-vitepress-edificio-campanella/data/site-operations.json",
-  "/node-vitepress-edificio-campanella/data/site-journeys.json",
-  "/node-vitepress-edificio-campanella/data/site-trust.json",
-  "/node-vitepress-edificio-campanella/llms.txt",
-  "/node-vitepress-edificio-campanella/robots.txt",
-  "/node-vitepress-edificio-campanella/contato",
-  "/node-vitepress-edificio-campanella/presenca",
-  "/node-vitepress-edificio-campanella/en/",
-  "/node-vitepress-edificio-campanella/en/contact",
-  "/node-vitepress-edificio-campanella/en/presence"
+  '/node-vitepress-edificio-campanella/',
+  '/node-vitepress-edificio-campanella/manifest.json',
+  '/node-vitepress-edificio-campanella/logo-mini.svg',
+  '/node-vitepress-edificio-campanella/logo-mini.png',
+  '/node-vitepress-edificio-campanella/og.jpg',
+  '/node-vitepress-edificio-campanella/data/site-catalog.json',
+  '/node-vitepress-edificio-campanella/data/site-audit.json',
+  '/node-vitepress-edificio-campanella/data/site-discovery.json',
+  '/node-vitepress-edificio-campanella/data/site-portfolio.json',
+  '/node-vitepress-edificio-campanella/data/site-projects.json',
+  '/node-vitepress-edificio-campanella/data/site-capabilities.json',
+  '/node-vitepress-edificio-campanella/data/site-stacks.json',
+  '/node-vitepress-edificio-campanella/data/site-operations.json',
+  '/node-vitepress-edificio-campanella/data/site-journeys.json',
+  '/node-vitepress-edificio-campanella/data/site-trust.json',
+  '/node-vitepress-edificio-campanella/llms.txt',
+  '/node-vitepress-edificio-campanella/robots.txt',
+  '/node-vitepress-edificio-campanella/contato',
+  '/node-vitepress-edificio-campanella/presenca',
+  '/node-vitepress-edificio-campanella/en/',
+  '/node-vitepress-edificio-campanella/en/contact',
+  '/node-vitepress-edificio-campanella/en/presence',
 ];
 
 self.addEventListener('install', (event) => {

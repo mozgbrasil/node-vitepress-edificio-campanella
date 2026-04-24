@@ -1,7 +1,7 @@
 {
   "name": "Edificio Campanella | Presenca digital",
   "short_name": "Edificio Campanella",
-  "description": "Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.",
+  "description": "Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-edificio-campanella/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-edificio-campanella/logo-mini.svg",

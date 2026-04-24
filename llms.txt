@@ -2,18 +2,18 @@
 
 - Company: Edificio Campanella
 - Author: Edificio Campanella
-- Role: Perfil institucional
-- Location: Sao Paulo, Brasil
-- Site: https://github.com/mozgbrasil/node-vitepress-edificio-campanella
-- Generated at: 2026-04-21T03:11:59.507Z
+- Role: Condominio edilicio
+- Location: Itaquera, Sao Paulo, Brasil
+- Site: https://mozgbrasil.github.io/node-vitepress-edificio-campanella/
+- Generated at: 2026-04-24T20:00:23.507Z
 
 ## Summary
-Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.
+Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.
 
 ## Pages
-- Edificio Campanella | Presenca digital: https://github.com/mozgbrasil/node-vitepress-edificio-campanella/
-- Contato: https://github.com/mozgbrasil/node-vitepress-edificio-campanella/contato
-- Perfis: https://github.com/mozgbrasil/node-vitepress-edificio-campanella/presenca
+- Edificio Campanella | Presenca digital: https://mozgbrasil.github.io/node-vitepress-edificio-campanella//
+- Contato: https://mozgbrasil.github.io/node-vitepress-edificio-campanella//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-edificio-campanella//presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -63,24 +63,26 @@ Superficie institucional para o Edificio Campanella, com referencias publicas or
 
 
 ## Trust Signals
-- Referencia publica aberta: Ponto inicial de descoberta com referencias abertas para o Edificio Campanella. [Busca publica]
+- CNPJ ativo do condominio: A ficha cadastral publica aponta CNPJ 05.156.509/0001-41, situacao ativa e operacao como condominio edilicio. [05.156.509/0001-41]
+- Endereco publico confirmado: As referencias abertas convergem para Avenida Campanella, 1297, Itaquera, Sao Paulo - SP. [Itaquera]
+- Perfil publico dedicado: Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil. [GitHub Pages]
 - Repositorio publico do perfil: Base auditavel para evolucao, versionamento e manutencao da superficie editorial. [GitHub]
 
 ## Static Exports
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-catalog.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-audit.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-discovery.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-portfolio.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-categories.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-capabilities.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-projects.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-stacks.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-operations.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-journeys.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-trust.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/data/site-profiles.json
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/llms.txt
-- https://github.com/mozgbrasil/node-vitepress-edificio-campanella/robots.txt
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-edificio-campanella//robots.txt
 
 ## Quality Gates
 

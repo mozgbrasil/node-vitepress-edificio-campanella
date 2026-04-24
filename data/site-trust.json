@@ -1,15 +1,27 @@
 {
-  "generated_at": "2026-04-21T03:11:59.507Z",
+  "generated_at": "2026-04-24T20:00:23.507Z",
   "filters_applied": {},
-  "total_signals": 2,
-  "total_available_signals": 2,
-  "linked_signals": 2,
+  "total_signals": 4,
+  "total_available_signals": 4,
+  "linked_signals": 4,
   "signals": [
     {
-      "title": "Referencia publica aberta",
-      "description": "Ponto inicial de descoberta com referencias abertas para o Edificio Campanella.",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "value": "Busca publica"
+      "title": "CNPJ ativo do condominio",
+      "description": "A ficha cadastral publica aponta CNPJ 05.156.509/0001-41, situacao ativa e operacao como condominio edilicio.",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "value": "05.156.509/0001-41"
+    },
+    {
+      "title": "Endereco publico confirmado",
+      "description": "As referencias abertas convergem para Avenida Campanella, 1297, Itaquera, Sao Paulo - SP.",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "value": "Itaquera"
+    },
+    {
+      "title": "Perfil publico dedicado",
+      "description": "Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "value": "GitHub Pages"
     },
     {
       "title": "Repositorio publico do perfil",

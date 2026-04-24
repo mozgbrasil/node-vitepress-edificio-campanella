@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T03:11:59.507Z",
+  "generated_at": "2026-04-24T20:00:23.507Z",
   "filters_applied": {},
-  "total_items": 34,
-  "total_available_items": 34,
+  "total_items": 45,
+  "total_available_items": 45,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 4 },
-    { "label": "page", "count": 3 },
-    { "label": "contact", "count": 2 },
-    { "label": "surface", "count": 2 },
-    { "label": "trust", "count": 2 }
+    { "label": "presence", "count": 9 },
+    { "label": "contact", "count": 4 },
+    { "label": "surface", "count": 4 },
+    { "label": "trust", "count": 4 },
+    { "label": "page", "count": 3 }
   ],
   "items": [
     {
@@ -202,12 +202,30 @@
       "meta": "Endpoint publico"
     },
     {
-      "id": "contact-referencia-publica",
+      "id": "contact-consulta-publica-cnpj",
       "kind": "contact",
-      "title": "Referencia publica",
-      "description": "busca publica aberta",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "tags": ["contato", "canal", "referencia-publica"],
+      "title": "Consulta publica CNPJ",
+      "description": "ficha cadastral publica",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "tags": ["contato", "canal", "consulta-publica-cnpj"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-google-maps",
+      "kind": "contact",
+      "title": "Google Maps",
+      "description": "localizacao publica do condominio",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "tags": ["contato", "canal", "google-maps"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-perfil-ao-vivo",
+      "kind": "contact",
+      "title": "Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "tags": ["contato", "canal", "perfil-ao-vivo"],
       "meta": "Contato principal"
     },
     {
@@ -232,7 +250,7 @@
       "id": "page-edificio-campanella-presenca-digital",
       "kind": "page",
       "title": "Edificio Campanella | Presenca digital",
-      "description": "Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.",
+      "description": "Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -247,12 +265,35 @@
       "meta": "Navegacao principal"
     },
     {
-      "id": "presence-edificio-campanella-base-publica-referencia-publica",
+      "id": "presence-edificio-campanella-consulta-publica-cnpj",
       "kind": "presence",
-      "title": "edificio-campanella · Base publica · Referencia publica",
-      "description": "Perfil institucional no grupo Base publica.",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "tags": ["brand", "presenca", "base-publica", "referencia-publica"],
+      "title": "edificio-campanella · Consulta publica CNPJ",
+      "description": "ficha cadastral publica",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "tags": ["brand", "presenca", "consulta-publica-cnpj"],
+      "meta": "@edificio-campanella"
+    },
+    {
+      "id": "presence-edificio-campanella-dados-cadastrais-consulta-publica-cnpj",
+      "kind": "presence",
+      "title": "edificio-campanella · Dados cadastrais · Consulta publica CNPJ",
+      "description": "Perfil institucional no grupo Dados cadastrais.",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "tags": [
+        "brand",
+        "presenca",
+        "dados-cadastrais",
+        "consulta-publica-cnpj"
+      ],
+      "meta": "@edificio-campanella"
+    },
+    {
+      "id": "presence-edificio-campanella-distribuicao-editorial-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "edificio-campanella · Distribuicao editorial · Perfil ao vivo",
+      "description": "Perfil institucional no grupo Distribuicao editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "tags": ["brand", "presenca", "distribuicao-editorial", "perfil-ao-vivo"],
       "meta": "@edificio-campanella"
     },
     {
@@ -270,12 +311,39 @@
       "meta": "@edificio-campanella"
     },
     {
-      "id": "presence-edificio-campanella-referencia-publica",
+      "id": "presence-edificio-campanella-google-maps",
       "kind": "presence",
-      "title": "edificio-campanella · Referencia publica",
-      "description": "busca publica aberta",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "tags": ["brand", "presenca", "referencia-publica"],
+      "title": "edificio-campanella · Google Maps",
+      "description": "localizacao publica",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "tags": ["brand", "presenca", "google-maps"],
+      "meta": "@edificio-campanella"
+    },
+    {
+      "id": "presence-edificio-campanella-localizacao-e-descoberta-google-maps",
+      "kind": "presence",
+      "title": "edificio-campanella · Localizacao e descoberta · Google Maps",
+      "description": "Perfil institucional no grupo Localizacao e descoberta.",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "tags": ["brand", "presenca", "localizacao-e-descoberta", "google-maps"],
+      "meta": "@edificio-campanella"
+    },
+    {
+      "id": "presence-edificio-campanella-localizacao-e-descoberta-loft",
+      "kind": "presence",
+      "title": "edificio-campanella · Localizacao e descoberta · Loft",
+      "description": "Perfil institucional no grupo Localizacao e descoberta.",
+      "href": "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk",
+      "tags": ["brand", "presenca", "localizacao-e-descoberta", "loft"],
+      "meta": "@edificio-campanella"
+    },
+    {
+      "id": "presence-edificio-campanella-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "edificio-campanella · Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "tags": ["brand", "presenca", "perfil-ao-vivo"],
       "meta": "@edificio-campanella"
     },
     {
@@ -288,11 +356,29 @@
       "meta": "@edificio-campanella"
     },
     {
-      "id": "surface-referencia-publica",
+      "id": "surface-consulta-publica-cnpj",
       "kind": "surface",
-      "title": "Referencia publica",
-      "description": "Busca publica aberta com referencias iniciais para o Edificio Campanella.",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
+      "title": "Consulta publica CNPJ",
+      "description": "Ficha cadastral publica com CNPJ, endereco, natureza juridica e atividade principal.",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-google-maps",
+      "kind": "surface",
+      "title": "Google Maps",
+      "description": "Localizacao publica principal para descoberta do condominio em Itaquera.",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie publica dedicada para consolidar referencias, localizacao e contexto institucional.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -306,13 +392,31 @@
       "meta": "Canal publico"
     },
     {
-      "id": "trust-referencia-publica-aberta",
+      "id": "trust-cnpj-ativo-do-condominio",
       "kind": "trust",
-      "title": "Referencia publica aberta",
-      "description": "Ponto inicial de descoberta com referencias abertas para o Edificio Campanella.",
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "tags": ["confianca", "institucional", "referencia-publica-aberta"],
-      "meta": "Busca publica"
+      "title": "CNPJ ativo do condominio",
+      "description": "A ficha cadastral publica aponta CNPJ 05.156.509/0001-41, situacao ativa e operacao como condominio edilicio.",
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "tags": ["confianca", "institucional", "cnpj-ativo-do-condominio"],
+      "meta": "05.156.509/0001-41"
+    },
+    {
+      "id": "trust-endereco-publico-confirmado",
+      "kind": "trust",
+      "title": "Endereco publico confirmado",
+      "description": "As referencias abertas convergem para Avenida Campanella, 1297, Itaquera, Sao Paulo - SP.",
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "tags": ["confianca", "institucional", "endereco-publico-confirmado"],
+      "meta": "Itaquera"
+    },
+    {
+      "id": "trust-perfil-publico-dedicado",
+      "kind": "trust",
+      "title": "Perfil publico dedicado",
+      "description": "Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella",
+      "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
+      "meta": "GitHub Pages"
     },
     {
       "id": "trust-repositorio-publico-do-perfil",

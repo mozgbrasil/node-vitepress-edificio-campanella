@@ -1,20 +1,32 @@
 {
-  "generated_at": "2026-04-21T03:11:59.035Z",
+  "generated_at": "2026-04-24T20:00:23.127Z",
   "profile_id": "edificio-campanella",
   "label": "Edificio Campanella",
   "title": "Edificio Campanella | Presenca digital",
   "headline": "Perfil institucional",
-  "primary_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+  "primary_url": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
   "public_repository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-  "site_url": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
   "source_urls": [
-    "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+    "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+    "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+    "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
   ],
   "reference_links": [
     {
-      "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-      "label": "Referencia publica",
-      "note": "busca publica do Edificio Campanella"
+      "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "label": "Google Maps",
+      "note": "localizacao publica principal do condominio"
+    },
+    {
+      "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+      "label": "Consulta publica CNPJ",
+      "note": "ficha cadastral publica do condominio"
+    },
+    {
+      "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+      "label": "Perfil ao vivo",
+      "note": "superficie publica dedicada do perfil"
     },
     {
       "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",

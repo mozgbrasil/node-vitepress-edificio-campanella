@@ -2,9 +2,9 @@
 
 Public repository export for profile `edificio-campanella`.
 
-- generated_at: 2026-04-21T03:11:59.035Z
-- primary_url: https://github.com/mozgbrasil/node-vitepress-edificio-campanella
+- generated_at: 2026-04-24T20:00:23.127Z
+- primary_url: https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP
 - public_repository: https://github.com/mozgbrasil/node-vitepress-edificio-campanella
-- source_urls: https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella
+- source_urls: https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP, https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella, https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk
 
-Superficie institucional para o Edificio Campanella, com referencias publicas organizadas e base pronta para evolucao.
+Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.
