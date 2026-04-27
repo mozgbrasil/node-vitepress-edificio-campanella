@@ -5,7 +5,7 @@
 - Role: Condominio edilicio
 - Location: Itaquera, Sao Paulo, Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-edificio-campanella/
-- Generated at: 2026-04-27T07:55:57.197Z
+- Generated at: 2026-04-27T08:52:33.650Z
 
 ## Summary
 Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.
