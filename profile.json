@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:30:38.359Z",
+  "generated_at": "2026-04-27T07:55:56.873Z",
   "profile_id": "edificio-campanella",
   "label": "Edificio Campanella",
   "title": "Edificio Campanella | Presenca digital",
@@ -27,11 +27,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
       "label": "Perfil ao vivo",
       "note": "superficie publica dedicada do perfil"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "label": "Repositorio publico",
-      "note": "destino publico da superficie editorial"
     }
   ]
 }

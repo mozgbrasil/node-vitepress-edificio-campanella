@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T22:30:38.803Z",
+  "generated_at": "2026-04-27T07:55:57.197Z",
   "filters_applied": {},
-  "total_items": 45,
-  "total_available_items": 45,
+  "total_items": 40,
+  "total_available_items": 40,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 9 },
-    { "label": "contact", "count": 4 },
-    { "label": "surface", "count": 4 },
-    { "label": "trust", "count": 4 },
-    { "label": "page", "count": 3 }
+    { "label": "presence", "count": 7 },
+    { "label": "contact", "count": 3 },
+    { "label": "page", "count": 3 },
+    { "label": "surface", "count": 3 },
+    { "label": "trust", "count": 3 }
   ],
   "items": [
     {
@@ -229,15 +229,6 @@
       "meta": "Contato principal"
     },
     {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "tags": ["contato", "canal", "repositorio-publico"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
@@ -297,20 +288,6 @@
       "meta": "@edificio-campanella"
     },
     {
-      "id": "presence-edificio-campanella-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "edificio-campanella · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil institucional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "tags": [
-        "brand",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@edificio-campanella"
-    },
-    {
       "id": "presence-edificio-campanella-google-maps",
       "kind": "presence",
       "title": "edificio-campanella · Google Maps",
@@ -347,15 +324,6 @@
       "meta": "@edificio-campanella"
     },
     {
-      "id": "presence-edificio-campanella-repositorio-publico",
-      "kind": "presence",
-      "title": "edificio-campanella · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "tags": ["brand", "presenca", "repositorio-publico"],
-      "meta": "@edificio-campanella"
-    },
-    {
       "id": "surface-consulta-publica-cnpj",
       "kind": "surface",
       "title": "Consulta publica CNPJ",
@@ -379,15 +347,6 @@
       "title": "Perfil ao vivo",
       "description": "Superficie publica dedicada para consolidar referencias, localizacao e contexto institucional.",
       "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Base editorial auditavel e pronta para expansao do perfil institucional.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -417,15 +376,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella",
       "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
       "meta": "GitHub Pages"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel para evolucao, versionamento e manutencao da superficie editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:30:38.803Z",
+  "generated_at": "2026-04-27T07:55:57.197Z",
   "active_profile": "edificio-campanella",
   "catalog": {
     "site": {
@@ -10,20 +10,20 @@
       "role": "Condominio edilicio",
       "location": "Itaquera, Sao Paulo, Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/assets/profile-branding/campanella.jpg",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "",
-      "github": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/campanella.jpg",
+      "institutionLogo": "/assets/profile-branding/campanella.jpg",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
       "mapsEmbedUrl": "https://www.google.com/maps?q=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP&output=embed",
       "address": {
@@ -43,7 +43,6 @@
         "05.156.509/0001-41",
         "perfil institucional",
         "presenca digital",
-        "repositorio publico",
         "referencia publica"
       ],
       "structuredData": {
@@ -68,12 +67,11 @@
           "05.156.509/0001-41",
           "perfil institucional",
           "presenca digital",
-          "repositorio publico",
           "referencia publica"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
           "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+          "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
           "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
           "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
           "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
@@ -87,20 +85,13 @@
           "website": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
           "role": "condominio edilicio",
           "note": "Condominio com referencia cadastral ativa, endereco publico em Itaquera e fundacao em 2002."
-        },
-        {
-          "name": "node-vitepress-edificio-campanella",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "role": "repositorio publico de distribuicao",
-          "note": "Destino publico da superficie editorial dedicada ao edificio."
         }
       ]
     },
     "hero": {
       "name": "Edificio Campanella",
       "text": "Condominio edilicio com localizacao, CNPJ e referencias publicas organizadas",
-      "tagline": "Google Maps, dados cadastrais, perfil ao vivo e repositorio publico organizam uma base institucional mais util e auditavel."
+      "tagline": "Google Maps, dados cadastrais e perfil ao vivo organizam uma base institucional mais util e auditavel."
     },
     "pages": [
       {
@@ -134,7 +125,7 @@
       {
         "year": "Atual",
         "title": "Camada publica auditavel",
-        "description": "Repositorio publico e referencias abertas passam a operar como base de confianca do perfil."
+        "description": "Referencias abertas e perfil ao vivo passam a operar como base de confianca do perfil."
       },
       {
         "year": "Atual",
@@ -144,7 +135,7 @@
     ],
     "experienceHighlights": [
       "Base institucional organizada para descoberta publica, localizacao e leitura cadastral simples.",
-      "Google Maps, consulta publica CNPJ e repositorio publico conectados como superfícies principais.",
+      "Google Maps, consulta publica CNPJ e perfil ao vivo conectados como superfícies principais.",
       "Estrutura pronta para evolucao com novos blocos, sinais de confianca e exports."
     ],
     "flagshipProjects": [],
@@ -170,11 +161,6 @@
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para consolidar referencias, localizacao e contexto institucional.",
         "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Base editorial auditavel e pronta para expansao do perfil institucional.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella"
       }
     ],
     "publicJourneys": [],
@@ -196,12 +182,6 @@
         "description": "Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil.",
         "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base auditavel para evolucao, versionamento e manutencao da superficie editorial.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -328,11 +308,6 @@
         "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
         "label": "Perfil ao vivo",
         "note": "superficie publica dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -341,8 +316,8 @@
         "label": "Perfil institucional",
         "title": "edificio-campanella",
         "handle": "@edificio-campanella",
-        "summary": "Presenca institucional organizada com Google Maps, ficha cadastral publica, perfil ao vivo e repositorio dedicado.",
-        "image": "/logo-mini.svg",
+        "summary": "Presenca institucional organizada com Google Maps, ficha cadastral publica e perfil ao vivo.",
+        "image": "/assets/profile-branding/campanella.jpg",
         "imageAlt": "Identidade publica do Edificio Campanella",
         "imageNote": "Superficie institucional do Edificio Campanella",
         "primaryLinks": [
@@ -360,11 +335,6 @@
             "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
             "label": "Perfil ao vivo",
             "note": "superficie publica dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
@@ -396,10 +366,6 @@
               {
                 "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
                 "label": "Perfil ao vivo"
-              },
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-                "label": "Repositorio publico"
               }
             ]
           }
@@ -434,11 +400,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Organization",
@@ -463,13 +424,13 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T22:30:38.803Z",
+    "generated_at": "2026-04-27T07:55:57.197Z",
     "company": "Edificio Campanella",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 45,
+      "discovery_items": 40,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -478,14 +439,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 4,
+      "trust_signals": 3,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 4,
+      "surfaces": 3,
       "presence_profiles": 1,
       "presence_groups": 3,
-      "presence_links": 9,
-      "contact_links": 4
+      "presence_links": 7,
+      "contact_links": 3
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

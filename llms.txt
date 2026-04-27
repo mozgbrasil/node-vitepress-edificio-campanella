@@ -5,7 +5,7 @@
 - Role: Condominio edilicio
 - Location: Itaquera, Sao Paulo, Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-edificio-campanella/
-- Generated at: 2026-04-24T22:30:38.803Z
+- Generated at: 2026-04-27T07:55:57.197Z
 
 ## Summary
 Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, referencias cadastrais e base editorial organizada para evolucao.
@@ -66,7 +66,6 @@ Superficie institucional para o Edificio Campanella, com localizacao, CNPJ, refe
 - CNPJ ativo do condominio: A ficha cadastral publica aponta CNPJ 05.156.509/0001-41, situacao ativa e operacao como condominio edilicio. [05.156.509/0001-41]
 - Endereco publico confirmado: As referencias abertas convergem para Avenida Campanella, 1297, Itaquera, Sao Paulo - SP. [Itaquera]
 - Perfil publico dedicado: Camada propria para consolidar contexto, leitura rapida e continuidade editorial do perfil. [GitHub Pages]
-- Repositorio publico do perfil: Base auditavel para evolucao, versionamento e manutencao da superficie editorial. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-edificio-campanella//data/site-catalog.json
